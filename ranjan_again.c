@@ -5,9 +5,7 @@ int main()
 {
     printf("Who are you");
     printf("some changes");
-    printf("");
-    printf("hiii");
-    printf("i am doing everything");
+    printf("Halt");
     return 0;
 
 }
